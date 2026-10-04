@@ -1,4 +1,3 @@
-# Career Goals
 
 ## Short-Term Goal
 
@@ -6,4 +5,4 @@ Improve my programming skills in C, Python, Java, and data structures while buil
 
 ## Long-Term Goal
 
-Become a skilled software engineer who can develop innovative and scalable technological solutions while continuously learning emerging technologies.
+Became a software engineer specializing in AI and software development, contributing to impactful projects and building technology-driven solutions for real-world challenges. 
